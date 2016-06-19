@@ -1,4 +1,3 @@
-# nodejs---auto_mysql_to_csv
 
 # /* About auto_mysql_to_csv.js */
 
